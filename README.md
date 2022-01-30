@@ -16,7 +16,7 @@ But the elegant part about QED is that is based on assumption of the inability o
 This is a Demonstration of a Online Chat Application using the BB84 Protocol
 
 
-# BB84 Protocol
+### BB84 Protocol
 This Protocal utilizes the Heisenbergs Uncertainty Principle for its encryption.
 
 

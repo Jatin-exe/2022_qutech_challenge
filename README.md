@@ -26,11 +26,12 @@ This Protocal utilizes the Heisenbergs Uncertainty Principle for its encryption.
 
 This is a Web Application made on Flask Library as the UI for the Application. 
 
+*the application is currenlty incomplete but we will finish it soon*
 
 Flow of the Application:
 *The Proposal is that every users has access to a Qunatum Computer or a Quantum Channel which allows transfer of Photons which we will be using as our Qubits
 
-Imagien two Users Alice and Bob, now imagine you are Alice.
+Imagine two Users Alice and Bob, now imagine you are Alice.
 -First head on to https://qkd.herokuapp.com/ and login with a Nickname, The Server will provide you a username accordingly, 
 Now you can share your username to anyone you would like to talk to, 
 

@@ -6,18 +6,20 @@
 </p>
 
 
-## Description 
+# Quantum Encryption 
 
-Why is encryption necessary ? 
-Current Encryption algorithms assume that the breacher or eavesdropper does not has enough Computational Resources or Time to break the Encryption.
+This repository is for the submission from the Team NoSleep Consiting of ([Albert Lin](https://github.com/AlbertDoggyLin),[Jatin Khanna](https://github.com/Jatin-exe), [Tan Jun Liang](https://github.com/poig))
 
-But the elegant part about QED is that is based on assumption of the inability of the breacher/hacker to break the fundamental laws of physics.
+Why Quantum Encryption? 
+Current Encryption algorithms assume that the breacher or eavesdropper does not has enough Computational Resources/Time or efficient algorithm to break the Encryption.
 
-This is a Demonstration of a Online Chat Application using the BB84 Protocol
+But the elegant part about Quantum Encryption is that it is based on assumption of the inability of the breacher/hacker to break the fundamental laws of physics.
+
+This Repo is a Demonstration of an Online Chat Application using the BB84 Protocol
 
 
 ### BB84 Protocol
-This Protocal utilizes the Heisenbergs Uncertainty Principle for its encryption.
+This Protocal utilizes the Heisenbergs Uncertainty Principle for its encryption.[BB84](https://www.cse.wustl.edu/~jain/cse571-07/ftp/quantum/)
 
 
 ## Description Of the Chat Application
@@ -42,12 +44,11 @@ If he accepts your Friend Request, he will generate his own random bias ans meas
 
 Once both of the parties have the key they can use it to encrypt their messages and talk freely. (antman in the quantum realm might be able to tresspass, no gurantee)
 
-IF EVE- 
-NOISE - QUNATUM ERROR CORRECTION
+Breahcer has access to the Quantum Channel but if he decides to observe the state of the Qubit, there is a 50% chance that he will corrupt the Information being transfered and Alice and Bob will realise about the Tresspasser, This can be futher improved with better Error Correction to prevent false positives, Long bits
 
 ## Actual Workings
 
-The Program can be run locally by acquiring the requiremnets in requirements.txt and running python run.py
+The Program can be run locally by acquiring the requiremnets in `requirements.txt` and running `python run.py`
 
 ^^
 The Application currently remains incomplete as of now.
@@ -64,3 +65,12 @@ It was intended to be polished and deployed on heroku or aws but time didnt allo
 
 ## Team NoSleep
 
+### Tan Jun Liang
+though the hackethon, I meet some new friends who is very hard working, and two team mates absent without inform, causing a lot of hard working though there, I am woking on the struture and almost everything of the BB84 protocol. We tried to make it happen on website interface, but sadly no one firmiliar with it, making hard time, with uncomplete project, but atleast we finish the goal.
+
+### Albert Lin
+This is my first hackthone, regretly the result is not really ideal since I have too little experience in not only in quantum computing, the relative knowledge about web framework as well, thus we can't complete our project in time. I might work harder on all of these and aim for a better result for all the following hackerthone or coding events. Thanks to my teamates who are hard-working. The co working experience is a really good one for me.
+
+
+### Jatin Khanna
+Indeed my first hackathon as well, first time I've stayed up for more than 24hrs awake and still i'm not feeling sleepy. Had the opportunity to meet and work with great people in MIT iQuHack22. Looking forward for more Hackathons and learning more about Quantum Computing. The Mentors were of great guidance as well , My Favourite part was actually the Gather.town, it was fun meeting people passionate about Science.

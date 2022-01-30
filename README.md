@@ -49,6 +49,7 @@ Breahcer has access to the Quantum Channel but if he decides to observe the stat
 
 ## Actual Workings
 
+***The Ipynb contains a better demonstration of Qunatum Circuits***
 The Program can be run locally by acquiring the requiremnets in `requirements.txt` and running `python run.py`
 
 ^^

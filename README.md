@@ -29,7 +29,7 @@ This is a Web Application made on Flask Library as the UI for the Application.
 *the application is currenlty incomplete but we will finish it soon*
 
 Flow of the Application:
-*The Proposal is that every users has access to a Qunatum Computer or a Quantum Channel which allows transfer of Photons which we will be using as our Qubits
+*The Proposal is that every users has access to a Quantum Computer or a Quantum Channel which allows transfer of Photons which we will be using as our Qubits
 
 Imagine two Users Alice and Bob, now imagine you are Alice.
 -First head on to https://qkd.herokuapp.com/ and login with a Nickname, The Server will provide you a username accordingly, 
@@ -45,7 +45,7 @@ If he accepts your Friend Request, he will generate his own random bias ans meas
 
 Once both of the parties have the key they can use it to encrypt their messages and talk freely. (antman in the quantum realm might be able to tresspass, no gurantee)
 
-Breahcer has access to the Quantum Channel but if he decides to observe the state of the Qubit, there is a 50% chance that he will corrupt the Information being transfered and Alice and Bob will realise about the Tresspasser, This can be futher improved with better Error Correction to prevent false positives, Long bits
+Breacher has access to the Quantum Channel but if he decides to observe the state of the Qubit, there is a 50% chance that he will corrupt the Information being transfered and Alice and Bob will realise about the Tresspasser, This can be futher improved with better Error Correction to prevent false positives, Long bits
 
 ## Actual Workings
 
@@ -76,4 +76,4 @@ This is my first hackthone, regretly the result is not really ideal since I have
 
 
 ### Jatin Khanna
-Indeed my first hackathon as well, first time I've stayed up for more than 24hrs awake and still i'm not feeling sleepy. Had the opportunity to meet and work with great people in MIT iQuHack22. Looking forward for more Hackathons and learning more about Quantum Computing. The Mentors were of great guidance as well , My Favourite part was actually the Gather.town, it was fun meeting people passionate about Science.
+Indeed my first hackathon as well, first time I've stayed up for more than 24hrs awake and still i'm not feeling sleepy. Had the opportunity to meet and work with great people in MIT iQuHack22. Looking forward for more Hackathons and learning more about Quantum Computing. The Mentors were of great guidance as well , My Favourite part was actually the Gather.town, it was fun meeting people passionate about Science. This shall serve as a springboard for my grand entry in the world of Quantum Mechanics
